@@ -91,7 +91,7 @@ Visit http://localhost:3000 to use the app.
 
 ```
 👨‍💻 Contributors
-- This project was developed and maintained by:
+This project was developed and maintained by:
 - Aayush Shukla – Full Stack Developer
 - Keshav Dutt Gautam – Full Stack Developer
 
@@ -99,4 +99,5 @@ Visit http://localhost:3000 to use the app.
 This project is licensed under the MIT License – feel free to use and modify with attribution.
 
 ⭐ If you like this project, consider giving it a star on GitHub!
+
 
