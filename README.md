@@ -89,19 +89,14 @@ cd ../client
 npm start
 Visit http://localhost:3000 to use the app.
 
-📸 Screenshots
-(Optional: Add some screenshots/gifs here of dashboard, login, course pages for better impact.)
-
+```
 👨‍💻 Contributors
-This project was developed and maintained by:
-
-Aayush Shukla – Full Stack Developer
-GitHub | LinkedIn
-
-Keshav Dutt Gautam – Full Stack Developer
-GitHub | LinkedIn
+- This project was developed and maintained by:
+- Aayush Shukla – Full Stack Developer
+- Keshav Dutt Gautam – Full Stack Developer
 
 📜 License
 This project is licensed under the MIT License – feel free to use and modify with attribution.
 
 ⭐ If you like this project, consider giving it a star on GitHub!
+
